@@ -16,7 +16,7 @@
 ### Complete the GitHub Copilot Primer 
 
 #### Objectives: 
-* Wondering how to get started with Codespaces? This Primer makes it easy by giving you the templates, videos and step-by-step resources you need to get you started running, testing, debugging and pushing code using this instant cloud developer environment.
+* Wondering how to get started with Copilot? This Primer makes it easy by giving you the templates, videos and step-by-step resources you need to get you started running, testing, debugging and pushing code using this instant cloud developer environment.
 * Share a screenshot of your completion screen on our [submission form](https://mlh.link/ghwform)! 
 
 #### Documentation: 
