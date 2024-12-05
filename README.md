@@ -1,4 +1,4 @@
-# Welcome to the GitHub GHW: Career Week Challenge Page!
+# Welcome to the GitHub GHW: Data Week Challenge Page!
 
 ## Getting Help 
 
@@ -9,7 +9,7 @@
 
 ## Registration Challenge
 ### Signup for the GitHub Student Developer Pack
-* Sign up for the [GitHub Student Developer Pack](https://mlh.link/ghwcareer24-github) to access GitHub Copilot and dozens of other amazing benefits. 
+* Sign up for the [GitHub Student Developer Pack](https://mlh.link/ghwdata1224-github) to access GitHub Copilot and dozens of other amazing benefits. 
 
 
 ## Challenge 1
@@ -20,7 +20,7 @@
 * Share a screenshot of your completion screen on our [submission form](https://mlh.link/ghwform)! 
 
 #### Documentation: 
-* [GitHub Copilot Primer Quick Start Guide](https://mlh.link/ghwcareer24-github-copilot)
+* [GitHub Copilot Primer Quick Start Guide](https://mlh.link/ghwdata1224-github-copilot)
 
 ## Challenge 2 
 ### Use GitHub Copilot to complete any of this week's challenges
@@ -30,7 +30,7 @@
 * Share your builds in a GitHub Discussion and add your project to our [Devpost Page](https://mlh.link/ghwdevpost)! 
 
 #### Documentation: 
-* [Getting Started with GitHub Copilot](https://mlh.link/ghwcareer24-github-copilot-getstarted)
+* [Getting Started with GitHub Copilot](https://mlh.link/ghwdata1224-github-copilot-getstarted)
 
 ## Challenge 3 
 ### Find and follow Open Source Projects
@@ -42,7 +42,7 @@
 * Share a screenshot of your list on our [submission form](https://mlh.link/ghwform)! 
 
 #### Documentation:
-* [Making your first list on GitHub](https://mlh.link/ghwcareer24-github-lists)
+* [Making your first list on GitHub](https://mlh.link/ghwdata1224-github-lists)
 
 ## Challenge 4 
 ### Get an intro to Open Source
@@ -52,7 +52,7 @@
 * Share a screenshot of your completion screen on our [submission form](https://mlh.link/ghwform)! 
 
 #### Documentation:
-* [Intro to Open Source by OpenSauced](https://mlh.link/ghwcareer24-github-opensauced)
+* [Intro to Open Source by OpenSauced](https://mlh.link/ghwdata1224-github-opensauced)
 
 ## Challenge 5
 ### Make your first No code/Low code open source contribution
@@ -62,7 +62,7 @@
 * Share a link of your pull request on our [submission form](https://mlh.link/ghwform)! 
 
 #### Documentation: 
-* [GitHub Good First Issue Repo List](https://mlh.link/ghwcareer24-github-forgoodfirstissue)
+* [GitHub Good First Issue Repo List](https://mlh.link/ghwdata1224-github-forgoodfirstissue)
 
 ## Challenge 6
 ### Contribute to Open Source by submitting an issue
@@ -73,7 +73,7 @@
 * Share a link of your issue on our [submission form](https://mlh.link/ghwform)! 
 
 #### Documentation: 
-* [GitHub Good First Issue Repo List](https://mlh.link/ghwcareer24-github-forgoodfirstissue)
+* [GitHub Good First Issue Repo List](https://mlh.link/ghwdata1224-github-forgoodfirstissue)
 
 ## Challenge 7
 ### Start or answer a Discussion 
@@ -84,7 +84,7 @@
 * Share a link of your Open Source discussion on our [submission form](https://mlh.link/ghwform)! 
 
 #### Documentation: 
-* [Starting your first discussion on GitHub](https://mlh.link/ghwcareer24-github-discussions)
+* [Starting your first discussion on GitHub](https://mlh.link/ghwdata1224-github-discussions)
 
 ## Challenge 8
 ### Build your first GitHub Action
@@ -93,4 +93,4 @@
 * Share a screenshot of your first GitHub Action on our [submission form](https://mlh.link/ghwform)! 
 
 #### Documentation: 
-* [Building your first GitHub Action](https://mlh.link/ghwcareer24-github-automatedapplications)
+* [Building your first GitHub Action](https://mlh.link/ghwdata1224-github-automatedapplications)
